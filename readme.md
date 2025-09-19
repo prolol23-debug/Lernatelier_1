@@ -9,7 +9,7 @@
 # Lernatelier_1
 ## Tag 1 19.09.2025
 ### Ziele
-1. CSharp Projekt strten mit Vr
+1. CSharp Projekt starten mit Vr
 2. Unity einrichten 
 3. Youtube tutorial recherchieren
 
