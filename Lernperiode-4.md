@@ -21,7 +21,7 @@ Sql Datenbanken in programme ein Bauen
 Docker
 ### Generelle Ziele
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-
+projekt FinalsTracker fertig Stellen.
 
 
 
@@ -98,9 +98,9 @@ https://www.w3schools.com/python/python_strings_methods.asp
 ### Planung 12.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Python text analyzer
+- [ ] Sql mit Python verbinen
+- [] Daten leen mit Python
 
 (Heute habe ich... (50-100 Wörter))
 
