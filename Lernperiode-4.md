@@ -83,11 +83,15 @@ configur file check ob es usgeführ worden ist sonst skip es.
 ### Planung 05.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Sql Test Daten einfügen
-- [ ] programm prache Auwählen
-- [ ] python lernen
+- [x] Sql Test Daten einfügen
+- [x] programm sprache Auwählen
+- [x] python lernen
 
 (Heute habe ich... (50-100 Wörter))
+Ich habe die Daten hinzugefügt und hbe auch die Programmier Sprache gewwählt für ie data collection für the Finalstracker. 
+Danach habe ich meine Kenntnisse in python erweitert damit ich das Projekt auch umsetzten kann.
+https://wiki.archlinux.org/title/Python/Virtual_environment
+https://www.w3schools.com/python/python_strings_methods.asp
 
 
 ### Planung 12.06.2026
