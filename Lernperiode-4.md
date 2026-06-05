@@ -1,13 +1,14 @@
 
 # Lern-Periode 1
 
-- Name: Exemplibus Exemplio
+- Name: Luc Wilcox
 - Zeitraum: 12.08.2024 bis 29.09.2024
 
 ## Grob-Planung
 
 ### Noten
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig? In diesem Halbjahr war ich besonders gut dah ich 5.5 schnittbekommen Habe. Wichtig ist noch das ich mehr Zeit in die Oba Stecke
+Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig? 
+In diesem Halbjahr war ich besonders gut dah ich 5.5 im schnittbekommen habe. Wichtig ist noch das ich mehr Zeit in die Oba Stecke weil diese meist Schlechter als die Hauptprüfung 
 
 ### Veränderungen
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
