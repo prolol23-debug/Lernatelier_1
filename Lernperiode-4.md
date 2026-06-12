@@ -1,8 +1,8 @@
 
-# Lern-Periode 1
+# Lern-Periode 4
 
 - Name: Luc Wilcox
-- Zeitraum: 12.08.2024 bis 29.09.2024
+- Zeitraum: 24.04.2025 bis 26.06.2026
 
 ## Grob-Planung
 
