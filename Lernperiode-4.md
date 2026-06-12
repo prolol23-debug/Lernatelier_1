@@ -112,9 +112,9 @@ https://www.youtube.com/watch?v=t4bKej1PZOY&t=72s
 ### Planung 19.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 
-- [ ]
-- [ ]
+- [ ] herausfinden wie man ein textanlyser umsetzt / was erlaubt is by the Finals
+- [ ] Testscreenshots sammeln für trainieren
+- [ ] python clsses and Objects lernen
 
 (Heute habe ich... (50-100 Wörter))
 
