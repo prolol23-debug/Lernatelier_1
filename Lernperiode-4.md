@@ -98,9 +98,23 @@ https://www.w3schools.com/python/python_strings_methods.asp
 ### Planung 12.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Python text analyzer
-- [ ] Sql mit Python verbinen
-- [] Daten leen mit Python
+- [x] Python list, tuple, set ,Dictionaries
+- [x] Sql mit Python verbinden
+- [x] Daten lesen und schreiben mit Python
+
+(Heute habe ich... (50-100 Wörter))
+Ich habe heute python gelernt wie man list, tuple, set und Dictionaries angewendet in ein Test projekt.
+Auch habe ich im FinalTracker Python module import, und iee Module andgewenet um damit Daten lesen und schreiben kann.
+Ich konnte heute nicht so efficient arbeit dah es sehr laut im Zimmer war. 
+https://www.w3schools.com/python/python_lists.asp
+https://www.youtube.com/watch?v=t4bKej1PZOY&t=72s
+
+### Planung 19.06.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] 
+- [ ]
+- [ ]
 
 (Heute habe ich... (50-100 Wörter))
 
