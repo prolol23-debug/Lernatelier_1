@@ -57,7 +57,6 @@ ziel: arduino remote connect zum homeserver
 ziel assets für erste level fertig
 
 08/05/2026
-
 Ich habe an the FinalsTracker gearbeitet und habe denn Sql code begonnen.
 Ziel für 
 22/05/26 
@@ -66,13 +65,16 @@ Leonrado projekt:
 main Charakter base model fertig Stellen.
 Crab_enemy attack animation fertigstellen 
 
-15/05/26
+## Tagesplanungen
+### Planung 15.05.2026
 Frei
 
-22/05/26
+## Tagesplanungen
+### Planung 22.05.2026
 Abwesend
+## Tagesplanungen
+### Planung 24.05.2026
 
-24/05/26
 FinalsTracker Sql befehl Fertig gestellt
 Tables Diagramm Hertellt
 Powerhell projekt begonnen
@@ -94,7 +96,7 @@ Danach habe ich meine Kenntnisse in python erweitert damit ich das Projekt auch 
 https://wiki.archlinux.org/title/Python/Virtual_environment
 https://www.w3schools.com/python/python_strings_methods.asp
 
-
+## Tagesplanungen
 ### Planung 12.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
@@ -109,12 +111,29 @@ Ich konnte heute nicht so efficient arbeit dah es sehr laut im Zimmer war.
 https://www.w3schools.com/python/python_lists.asp
 https://www.youtube.com/watch?v=t4bKej1PZOY&t=72s
 
+## Tagesplanungen
 ### Planung 19.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] herausfinden wie man ein textanlyser umsetzt / was erlaubt is by the Finals
-- [ ] Testscreenshots sammeln für trainieren
-- [ ] python clsses and Objects lernen
+- [x] herausfinden wie man ein textanlyser umsetzt / was erlaubt is by the Finals
+- [x] Textanalyser pillow lernen
+- [x] python classes and Objects lernen
+
+(Heute habe ich... (50-100 Wörter))
+Ich habe bei The Finals im Discord Gefragt. Ich habe auch pillow documentation angeschaut.
+Auch habe ich python object und Classes gelernt wie a w3school. 
+Jedoch konnte ich noch keine Antwort von Embark bekommen.
+https://www.w3schools.com/python/python_oop.asp
+https://pillow.readthedocs.io/en/stable/handbook/index.html
+
+## Tagesplanungen
+### Planung 26.06.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] Textanalyser machen das er Erkennnt wie viel Rankscore in 1 Place bekommt.
+- [] Diese Daten mit Sql daten bank Verbinden.
+- [] Planung vom Textanalyser wo was scannen muss
+      
 
 (Heute habe ich... (50-100 Wörter))
 
