@@ -27,6 +27,8 @@ projekt FinalsTracker fertig Stellen.
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+nicht alles ereicht wo ich wollte. Ich bin noch nicht so weit im Finals Tracker wie ich gehofft habe jedoch habe ich vieles gelernt und vermute das ich noch befor Sommerferien ende fertig bin.
+Ich habe im Unterricht viel zeit mit erkunndigen von andere Abreiten mich ablenken lassen und muss mehr auf mein eigenes Fokusieren.
 
 
 
@@ -42,28 +44,50 @@ projekt FinalsTracker fertig Stellen.
 
 
 
-20/03/26
-ziel für nächtest mal ist assets boot und player fertig stellen, dirt generate and player movement
+## Tagesplanungen
+### Planung 20.03.2026
+3 bis 5 klar messbare Arbeitspakete.
 
-reflexion 
-ich habe gut gearbeitet, aber ich habe nicht alle geschfft was ich heute machen wollte dah ich noch nohan helfen musste.
-¨
+- [x] 
+- [x] 
+- [x] 
 
-24/04/26
+(Heute habe ich... (50-100 Wörter))
+ich habe gut gearbeitet, aber ich habe nicht alle geschfft was ich heute machen wollte dah ich noch nohan helfen musste. ziel für nächtest mal ist assets boot und player fertig stellen, dirt generate and player movement
 
+
+## Tagesplanungen
+### Planung 24.04.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] Assets für Schiff fertig
+- [x] assets für items  Fertig
+- [ ] Player asset fertig stellen
+
+(Heute habe ich... (50-100 Wörter))
 ich habe an arduino gearbeit und assets für godot-game gearbeit
-
 ziel: arduino remote connect zum homeserver 
 ziel assets für erste level fertig
+## Tagesplanungen
+### Planung 08.05.2026
+3 bis 5 klar messbare Arbeitspakete.
 
-08/05/2026
-Ich habe an the FinalsTracker gearbeitet und habe denn Sql code begonnen.
-Ziel für 
-22/05/26 
-All Tablen Create checks Fertig und befehl auführen und error beheben.
-Leonrado projekt:  
-main Charakter base model fertig Stellen.
-Crab_enemy attack animation fertigstellen 
+- [x] 
+- [x] 
+- [x] 
+
+(Heute habe ich... (50-100 Wörter))
+Ich habe an the FinalsTracker gearbeitet und habe denn Sql code begonnen. 
+## Tagesplanungen
+### Planung 22.05.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] All Tablen Create checks Fertig und befehl auführen und error beheben.
+- [x] main Charakter base model fertig Stellen.
+- [x] Crab_enemy attack animation fertigstellen 
+
+
+(Heute habe ich... (50-100 Wörter))
 
 ## Tagesplanungen
 ### Planung 15.05.2026
@@ -72,6 +96,7 @@ Frei
 ## Tagesplanungen
 ### Planung 22.05.2026
 Abwesend
+
 ## Tagesplanungen
 ### Planung 24.05.2026
 
@@ -130,10 +155,11 @@ https://www.youtube.com/watch?v=n-8oCPjpEvM&t=97s
 ### Planung 26.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Textanalyser machen das er Erkennnt wie viel Rankscore in 1 Place bekommt.
+- [x] Textanalyser machen das er Erkennnt wie viel Rankscore in 1 Place bekommt.
 - [] Diese Daten mit Sql daten bank Verbinden.
-- [] Planung vom Textanalyser wo was scannen muss
+- [x] Planung vom Textanalyser wo was scannen muss
       
 
 (Heute habe ich... (50-100 Wörter))
+Ich konnte das Der Textalyser erkennt die Zahlen die brauche bis auf eine für diese mus ich nächtes mal schaunen. auch konnte ich noch nicht die daten mit sql verbinden muss aber nur noch die dten sotieren und iese als query inserten.
 
