@@ -116,15 +116,15 @@ https://www.youtube.com/watch?v=t4bKej1PZOY&t=72s
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] herausfinden wie man ein textanlyser umsetzt / was erlaubt is by the Finals
-- [x] Textanalyser pillow lernen
+- [x] Textanalyser OpenCV and EasyOcr lernen
 - [x] python classes and Objects lernen
 
 (Heute habe ich... (50-100 Wörter))
-Ich habe bei The Finals im Discord Gefragt. Ich habe auch pillow documentation angeschaut.
+Ich habe bei The Finals im Discord Gefragt. Ich habe auch TExt detection video angeschaut.
 Auch habe ich python object und Classes gelernt wie a w3school. 
 Jedoch konnte ich noch keine Antwort von Embark bekommen.
 https://www.w3schools.com/python/python_oop.asp
-https://pillow.readthedocs.io/en/stable/handbook/index.html
+https://www.youtube.com/watch?v=n-8oCPjpEvM&t=97s
 
 ## Tagesplanungen
 ### Planung 26.06.2026
