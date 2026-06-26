@@ -98,14 +98,15 @@ Frei
 Abwesend
 
 ## Tagesplanungen
-### Planung 24.05.2026
+### Planung 29.05.2026
 
-FinalsTracker Sql befehl Fertig gestellt
-Tables Diagramm Hertellt
-Powerhell projekt begonnen
-Ziele Für 29/05/26
-Powershell User kann Username von Webseite eingeben und ufrufen von Password jnd username
-configur file check ob es usgeführ worden ist sonst skip es.
+-[x] FinalsTracker Sql befehl Fertig gestellt
+-[x] Tables Diagramm Hertellt
+-[x] Powerhell projekt begonnen
+
+
+(Heute habe ich... (50-100 Wörter))
+Habe ich die Sql befehle abgeschlossen und das Powershell begonnen auch habe für SQL diagramm hergetellt und 
 
 ## Tagesplanungen
 ### Planung 05.06.2026
